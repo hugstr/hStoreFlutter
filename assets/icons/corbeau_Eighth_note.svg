@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3745"
+   viewBox="0 0 52.13 97.301"
+   version="1.0"
+   sodipodi:docname="corbeau_Eighth_note.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-17.908478"
+     inkscape:cy="60.894795"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3745" />
+  <g
+     id="layer1"
+     transform="translate(-382.51 -658)">
+    <path
+       id="path3743"
+       d="m408.04 658c5.88 14.34 12.3 22.76 16.39 27.42 3.23 3.68 20.94 20.04 0.53 45.61 12.12-25.04 7.76-39.88-13.92-49.03v53c0.68 21.83-21.75 23.16-27.21 17.35-5.65-5.99 7.67-25.89 24.21-19.35v-75z"
+       fill-rule="evenodd" />
+  </g>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Eighth note</dc:title>
+        <dc:date>2007-04-10T14:26:55</dc:date>
+        <dc:description>Une croche.</dc:description>
+        <dc:source>http://openclipart.org/detail/3864/eighth-note-by-corbeau</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>corbeau</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>croche</rdf:li>
+            <rdf:li>eighth note</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>music</rdf:li>
+            <rdf:li>music notation</rdf:li>
+            <rdf:li>musique</rdf:li>
+            <rdf:li>notation musicale</rdf:li>
+            <rdf:li>note</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>svg</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#e28743;stroke-width:0.176777"
+     d="M 25.40189,-0.20120853 C 25.225649,4.7663512 25.375287,9.8082692 25.324435,14.80444 c -0.0029,19.956316 -0.0059,39.912633 -0.0089,59.868949 C 21.889418,73.378701 18.006734,73.109546 14.45965,74.058469 8.1834037,75.742518 2.9680715,80.67369 0.56677215,86.662195 c -1.00447838,2.591057 -1.39991617,6.130948 0.92568615,8.150963 2.7325713,2.323146 6.4992307,2.844272 9.9675127,2.569131 6.825105,-0.03976 13.40269,-4.504362 15.81012,-10.919068 1.118466,-2.65385 1.463159,-5.538586 1.35759,-8.397583 0.177933,-17.902123 -0.01074,-35.806369 0.208195,-53.708005 5.841135,2.679515 11.687682,5.974854 15.596138,11.231555 3.979233,5.159486 4.955277,12.027522 4.073598,18.334281 -0.811286,6.448325 -3.354417,12.503704 -5.919477,18.428 -0.315674,0.573871 0.505829,0.569324 0.625279,0.07009 C 48.190324,66.027 52.067079,58.385138 52.3593,50.148039 52.524738,42.552139 49.226487,35.185957 44.17169,29.620257 39.238085,24.138007 34.794034,18.189342 31.366074,11.641864 29.335979,7.7922317 27.382109,3.8967221 25.710213,-0.12386873 l -0.134581,-0.11461898 -4.18e-4,-3.5492e-4 -0.172751,0.0375097 z"
+     id="path23" />
+  <path
+     style="fill:#e28743;stroke-width:0.00390625"
+     d="m 42.537689,72.548638 c -0.06808,0.01782 -0.11898,0.07326 -0.14382,0.137537 -0.04245,0.09128 -0.09092,0.180109 -0.127589,0.273878 -0.02599,0.08677 0.01389,0.187513 0.09367,0.231087 0.08315,0.04926 0.198172,0.02542 0.257111,-0.0507 0.06787,-0.08581 0.138077,-0.170048 0.202979,-0.258046 0.05875,-0.08514 0.03359,-0.212724 -0.05179,-0.270646 -0.05776,-0.03367 -0.119358,-0.07325 -0.189081,-0.06917 -0.0139,9.9e-5 -0.02769,0.0043 -0.04148,0.0061 z"
+     id="path27" />
+</svg>
