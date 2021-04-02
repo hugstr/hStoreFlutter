@@ -31,7 +31,7 @@ class MyBottomNavBar extends StatelessWidget {
           IconButton(
             iconSize: 10,
             onPressed: () {},
-            icon: SvgPicture.asset("assets/icons/corbeau_Eighth_note.svg"),
+            icon: SvgPicture.asset("assets/icons/eight-icon.svg"),
           ),
           IconButton(
             onPressed: () {},

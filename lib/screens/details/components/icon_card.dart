@@ -7,10 +7,11 @@ class IconCard extends StatelessWidget {
     Key key,
     this.icon,
     this.iconColor,
+    this.picColor,
   }) : super(key: key);
 
   final String icon;
-  final Color iconColor;
+  final Color iconColor, picColor;
 
   @override
   Widget build(BuildContext context) {
@@ -36,7 +37,10 @@ class IconCard extends StatelessWidget {
           ),
         ],
       ),
-      child: SvgPicture.asset(icon),
+      child: SvgPicture.asset(
+        icon,
+        color: picColor,
+      ),
     );
   }
 }

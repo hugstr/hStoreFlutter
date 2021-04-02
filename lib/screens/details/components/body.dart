@@ -10,8 +10,10 @@ class Body extends StatelessWidget {
     return SingleChildScrollView(
       child: Column(
         children: <Widget>[
-          ImageAndIconCards(size: size),
-          TitlePrice(title: "Jabuticabeira", city: "Londrina", price: 550),
+          ImageAndIconCards(
+            size: size,
+          ),
+          TitlePrice(title: "Sanshin", city: "São Paulo", price: 2800),
           SizedBox(
             height: 10,
           ),

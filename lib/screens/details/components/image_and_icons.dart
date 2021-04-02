@@ -7,9 +7,11 @@ class ImageAndIconCards extends StatelessWidget {
   const ImageAndIconCards({
     Key key,
     @required this.size,
+    this.detailImage,
   }) : super(key: key);
 
   final Size size;
+  final String detailImage;
 
   @override
   Widget build(BuildContext context) {
@@ -39,17 +41,22 @@ class ImageAndIconCards extends StatelessWidget {
                     ),
                     Spacer(),
                     IconCard(
-                        icon: "assets/icons/heart-icon.svg",
-                        iconColor: kPrimaryColor.withOpacity(0.85)),
+                      icon: "assets/icons/heart-icon.svg",
+                      iconColor: kPrimaryColor.withOpacity(0.85),
+                    ),
                     IconCard(
-                        icon: "assets/icons/icon_2.svg",
-                        iconColor: kBackgroundColor),
+                      icon: "assets/icons/g-clef.svg",
+                      iconColor: kBackgroundColor,
+                      picColor: kPrimaryColor,
+                    ),
                     IconCard(
-                        icon: "assets/icons/icon_3.svg",
-                        iconColor: kBackgroundColor),
+                        icon: "assets/icons/map-icon.svg",
+                        iconColor: kBackgroundColor,
+                        picColor: kPrimaryColor),
                     IconCard(
-                        icon: "assets/icons/icon_4.svg",
-                        iconColor: kBackgroundColor),
+                        icon: "assets/icons/share-icon.svg",
+                        iconColor: kBackgroundColor,
+                        picColor: kPrimaryColor),
                   ],
                 ),
               ),
@@ -72,7 +79,7 @@ class ImageAndIconCards extends StatelessWidget {
                 image: DecorationImage(
                   alignment: Alignment.centerLeft,
                   fit: BoxFit.cover,
-                  image: AssetImage("assets/images/img.png"),
+                  image: AssetImage("assets/images/sanshin.jpg"),
                 ),
               ),
             ),
