@@ -1,4 +1,4 @@
-# Simple Flutter store
+# Simple Musical Instruments Flutter store
 
 A simple store layout made in Flutter. 
 
